@@ -350,3 +350,8 @@ html {
     font-size: 15px;
     color: #757575;
 }
+
+#footer .icon:hover,
+#footer p a:hover {
+    opacity: 0.6;
+}
